@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.vitalyankh.meow.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vitalyankh.meow.MyBundle
 
 class MyProjectService(project: Project) {
 
